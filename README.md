@@ -1,15 +1,15 @@
 # anne-will-fk125-vb063-final
 
-Codebuch Anne Will fk125 vb063
+## Codebuch Anne Will fk125 vb063
 
-Edgelist
+# Edgelist
 from = ID des Knoten Mitglied
 to = ID des Knoten Mitgliedschaft
 relationship: 
 1 = Teilnahme Talkshow (Teilnahme an exakt selben Folge) 
 2 = Mitglied Partei (Mitglied der gleichen Partei)
 
-Nodelist
+# Nodelist
 id = ID aus der Edgelist
 name = Voller Name/Bezeichnung
 party = Parteizugehörigkeit, codiert nach Parteiname also z.B. SPD, GREEN, CDU, etc. 
